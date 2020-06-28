@@ -1,3 +1,0 @@
-# SMS Sender
-
-TODO:
