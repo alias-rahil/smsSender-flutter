@@ -1,2 +1,0 @@
-#sms-sender
-sms-sender
