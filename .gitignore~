@@ -45,7 +45,6 @@ version
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
-**/generated_plugin_registrant.dart
 .packages
 .pub-cache/
 .pub/
@@ -114,4 +113,3 @@ app.*.symbols
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
-

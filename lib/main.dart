@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sms/sms.dart';
+import 'package:sms_maintained/sms.dart';
 
 void main() {
   runApp(MyApp());

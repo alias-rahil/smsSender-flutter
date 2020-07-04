@@ -1,6 +1,6 @@
-# sms_sender
+# hello_world
 
-CSI internal Hackathon project
+A new Flutter project.
 
 ## Getting Started
 
